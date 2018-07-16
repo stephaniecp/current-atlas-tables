@@ -1,0 +1,7 @@
+show show something on the web page
+do a console math test to prove js in included
+include jquery from the google code cdn
+alter the displayed heading (using jquery, change the current title in the page)
+
+find canadian hydropraphics tide API
+find the name of the point where all the math is done from
