@@ -1,7 +1,9 @@
 "use strict";
 
-(function(currents) {
+// copied & pasted from tides.js + changed "hello" for "coucou"
+  export function getCoucou() {
+    return "coucou";
+  };
 
-
-
-})(module.exports);
+// (function(currents) {
+// })(module.exports);
