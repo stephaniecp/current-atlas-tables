@@ -9,6 +9,10 @@
   }
 
 // Next function wot work on
-  // export function getAtkinsonPtTideNow() {
-  //
-  // }
+  export function getAtkinsonPtTideNow() {
+      return {
+        tideLevel: 10,
+        tideRange: 2,
+        tideTendency: "up"
+      }
+  }
