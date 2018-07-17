@@ -14,4 +14,7 @@ describe('the object tides', function(){
       chai.expect(nowConditions).to.have.property('tideTendency');
     });
 
+  //   it('should ', function){
+  // }
+
 });
