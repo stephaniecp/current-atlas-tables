@@ -26,7 +26,16 @@
        <button id="getAtlasPageForSelectedMonth" type="button">Get result</button>
      </p>
 
-     <p>Generate atlas lookup pages for the year of ____
+     <p>Generate atlas lookup pages for the year of
+
+       <script type="text/javascript">
+         var today = new Date();
+         var year = today.getFullYear();
+         var message = ("year : " + year);
+         console.log(message);
+         document.write(message);
+       </script>
+
       <button id="getAtlasPageForSelectedYear" type="button">Get result</button>
      </p>
 
